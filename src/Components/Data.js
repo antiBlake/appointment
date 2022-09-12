@@ -168,6 +168,78 @@ const waxing = [
     },
     
 ]
+const sugar = [
+    {
+        id:1,
+        title:'Under Arm (female)',
+        price:'3000',
+    },
+    {
+        id:2,
+        title:'Under Arm (Male)',
+        price:'5000',
+    },{
+        id:3,
+        title:'Bikini Line',
+        price:'4000',
+    },{
+        id:4,
+        title:'Brazilian',
+        price:'15000',
+    },{
+        id:5,
+        title:'Vagical',
+        price:'6000',
+    },{
+        id:6,
+        title:'Chin',
+        price:'2500',
+    },{
+        id:7,
+        title:'Chest (female)',
+        price:'3000',
+    },{
+        id:8,
+        title:'Chest (Male)',
+        price:'6000',
+    },{
+        id:9,
+        title:'Stomach (female)',
+        price:'3000',
+    },
+    {
+        id:10,
+        title:'Stomach (Male)',
+        price:'5000',
+    },{
+        id:11,
+        title:'Mustache (female)',
+        price:'1500',
+    },
+    {
+        id:12,
+        title:'Mustache (male)',
+        price:'2500',
+    },
+    {
+        id:13,
+        title:'Anus (female)',
+        price:'8000',
+    },
+    {
+        id:14,
+        title:'150g Wax',
+        price:'6500',
+    },
+    {
+        id:15,
+        title:'300g Wax',
+        price:'8500',
+    },
+    
+    
+    
+]
 export default data
-export {brows, waxing}
+export {brows, waxing, sugar}
 

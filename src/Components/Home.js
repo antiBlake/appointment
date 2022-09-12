@@ -140,6 +140,14 @@ const Home = () => {
 
         </div>
       </div>
+      <div className='work-pics my-8'>
+        <div className='pic1 h-4/6 my-4'>
+          <img src='oyemphoto1.jpg' className='w-full h-auto' />
+        </div>
+        <div className='pic1 h-4/6 my-4'>
+          <img src='oyemphoto2.jpg' className='w-full h-auto' />
+        </div>
+      </div>
 
     </div>
     <div className='Policy grid gap-2 text-red-600 font-bold'>
